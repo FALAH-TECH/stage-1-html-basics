@@ -39,20 +39,7 @@ Each module demonstrates one HTML concept. Click to view the code.
 
 ### 📝 Forms  
 - Input types, labels, and buttons  
-- 🔗 [forms/index.html](forms/index.html)
-
-### 🧩 Semantic Tags  
-- `<header>`, `<nav>`, `<section>`, `<footer>`  
-- 🔗 [semantic-tags/index.html](semantic-tags/index.html)
-
----
-
-## 🎯 Summary
-
-✔ Completed all HTML fundamentals  
-✔ Built a real working webpage  
-✔ Created a structured learning folder  
-✔ Ready to move on to **Stage 2 — HTML + CSS Projects**
+- 🔗 [forms/index.html](forms/index.html).
 
 ---
 
